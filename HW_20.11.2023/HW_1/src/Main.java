@@ -1,4 +1,6 @@
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
@@ -42,6 +44,9 @@ public class Main {
         }
         System.out.println();
         System.out.print("Третье по величине число: " + third);
+
+
+        }
     }
-}
+
 
