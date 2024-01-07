@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef3d5a2d-259b-4b95-90fa-998ae8ed34cd" name="Changes" comment="HW_27.11.2023">
+      <change afterPath="$PROJECT_DIR$/../HW_29.11.2023/src/Library/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_29.11.2023/src/Library/BookStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_29.11.2023/src/Library/Borrowable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_29.11.2023/src/Library/CollectionProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_29.11.2023/src/Library/Genre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_29.11.2023/src/Library/ItemCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_29.11.2023/src/Library/Librarian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_29.11.2023/src/Library/LibraryCatalogue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_29.11.2023/src/Library/LibraryItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_29.11.2023/src/Library/Magazine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_29.11.2023/src/Library/Maintainable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_29.11.2023/src/Library/Searchable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_29.11.2023/src/Library/User.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Natallia9&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="6e2574c2-ef82-432c-8f41-610e934771b4" />
+        <option name="url" value="https://github.com/Natallia9/java_pro.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2YvxId0m6OKwCQfCVgYm4TAPNn5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/java pro/HW_27.11.2023"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef3d5a2d-259b-4b95-90fa-998ae8ed34cd" name="Changes" comment="" />
+      <created>1701419778381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701419778381</updated>
+    </task>
+    <task id="LOCAL-00001" summary="HW_27.11.2023">
+      <option name="closed" value="true" />
+      <created>1701623562514</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701623562514</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="HW_27.11.2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW_27.11.2023" />
+  </component>
+</project>
