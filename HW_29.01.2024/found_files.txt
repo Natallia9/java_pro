@@ -1,0 +1,3 @@
+.\copy_example.txt
+.\example.txt
+.\java.txt
